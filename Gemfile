@@ -39,7 +39,6 @@ gem 'mini_magick'
 gem 'carrierwave', github: 'carrierwaveuploader/carrierwave'
 gem 'fog'
 gem 'jquery-ui-rails'
-gem 'sidekiq'
 gem "braintree"
 gem 'gon'
 gem 'searchkick'
